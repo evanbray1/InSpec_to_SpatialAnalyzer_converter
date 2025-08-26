@@ -1,0 +1,2 @@
+Note from Evan, 07/07/2025:
+This extremely niche script is being uploaded to my GitHub to help future GSFC Optics employees who find themselves needing to export data from the MicroVu with the intent of using it in Spatial Analyzer, and are frustrated that the manufacturer tools don't make this easier. I acknowledge there are some ways in which this script could be optimized, but doing so is not in the cards at the moment.
