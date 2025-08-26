@@ -1,0 +1,2 @@
+Note from Evan, 07/07/2025:
+This extremely niche script is being uploaded to my GitHub to help future GSFC Optics employees who find themselves needing to export data from the MicroVu, and are frustrated that the manufacturerm tools don't provide more customization options. I acknowledge there are some ways in which this script could be optimized to improve readability, but doing so is not in the cards at the moment.
